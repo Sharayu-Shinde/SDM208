@@ -1,0 +1,15 @@
+Business entities- for employee recruitment system
+
+Jobseekers
+Recriters
+admin 
+internal staff
+
+Business operation-
+
+-Registering the end users- jobseekers and recruiters.
+-uploading and updating job requirements
+-applying for the job
+-downloading the profile
+
+

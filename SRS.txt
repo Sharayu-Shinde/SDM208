@@ -1,0 +1,41 @@
+Software requirement specification
+
+Title- SRS Employee Recruitment System
+
+team members- jobseekers,admin,recruiters.
+
+objectives-  The online employee recruitment System for products Web Applictaion is intended to  provide complete solution
+	for recuiters, jobseeker as well as Staff  through  a single application
+	internet. It will help jobseekers to find n numbers of jobs and recuiters will be able to find right talent. 
+
+Scope-  This System allows recuiters to upload and update their job requirements.Job seekers will be able to  review job requirements online and apply accordingly.
+	Recuiters will get the notifications of applied candidates and they can connect with them using contact details available on application.
+
+Reuirements==
+1) Functional requirements-
+
+Job seekers who have logged in on application will be able to see the job requirements available on portal but for applying to the job jobseekers need paid         subsciption of the application. Registered recuiters can add job requirements on the portal and they can connect with the job seekers using diifernt ways such as sending mass mail to multiple job seekers directly.
+
+Job seekers will be able to see all the job requirements available for the particular skill or skiilset. System will also suggest the jobs in particular skills accorsing to the requirements of the job seekers and using search history. Job jeekers will be able to apply for multiple jobs at a moment. Recruiters will be able to see how many job seekers have appied for a particular job and directly go on the profile of the job seekers and see their details such as contact details, qualifications and CV of the candidates review them accordingly and coonect with them using contact details.
+
+Job seekers will get notification of every job requirement uploaded or updated on job portal according to their qualification and skillset.Jobseekers will be able to serach job using differnt serch criteria such as company name, location, skills, job position. Recuiters will also can search the profiles according to differnt serach criteria such as skills, experience,location of candidates , organizations for which they are working, qualification of the candidate.  
+
+
+2) Non functional requirements-
+
+Security- Job seekers will have to log in to the system to see the job requirements.Recuiters need to registered to access the information of all the job seekers. users will be logged out automatically due to inactiveness for long time. For changing the password user will get link on registerd mail id.
+
+
+Reliability-
+The system will maintain the load balancing and backup the data regularly.
+
+Availability- System will be available 24 hours for the users.
+
+Efficiency- system will be quick when it comes to serching.
+
+Durability- System will maintain serach data for end users. Recuiters will also be able to tickmark the selected candidates or add comments.
+
+Accessabilty- System will be available to the rgisterd users only. Registerd users has to login using userid and password.
+
+Safety:
+Job seekers data will be kept safe. Only registerd recruiters will be able to access candidates data. 
